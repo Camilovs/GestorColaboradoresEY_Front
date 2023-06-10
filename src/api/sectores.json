@@ -1,0 +1,58 @@
+[
+  {
+    "ID": 1,
+    "nombre": "Mineria"
+  },
+  {
+    "ID": 2,
+    "nombre": "Retail"
+  },
+  {
+    "ID": 3,
+    "nombre": "Bancaria"
+  },
+  {
+    "ID": 4,
+    "nombre": "Agricola"
+  },
+  {
+    "ID": 5,
+    "nombre": "Industrial"
+  },
+  {
+    "ID": 6,
+    "nombre": "Financiera"
+  },
+  {
+    "ID": 7,
+    "nombre": "Publica"
+  },
+  {
+    "ID": 8,
+    "nombre": "Gobierno"
+  },
+  {
+    "ID": 9,
+    "nombre": "Educacion"
+  },
+  {
+    "ID": 10,
+    "nombre": "Tecnologia"
+  },
+  {
+    "ID": 11,
+    "nombre": "Automotriz"
+  },
+  {
+    "ID": 12,
+    "nombre": "Salud"
+  },
+  {
+    "ID": 13,
+    "nombre": "Pymes"
+  },
+  {
+    "ID": 14,
+    "nombre": "ONG"
+  }
+]

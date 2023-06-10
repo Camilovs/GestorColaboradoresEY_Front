@@ -1,0 +1,77 @@
+[
+  {
+    "nombre": "Camilo",
+    "apellido": "Villalobos",
+    "correo": "camilo.s.villalobos@ey.cl.com",
+    "rank": "staff/asistente",
+    "experiencia": ["Mineria", "Retail", "Bancaria", "Agricola"],
+    "conocimientos": [
+      {
+        "nombre": "React",
+        "nivel": "7"
+      },
+      {
+        "nombre": "Node",
+        "nivel": "6"
+      },
+      {
+        "nombre": "Node",
+        "nivel": "6"
+      },
+      {
+        "nombre": "AWS",
+        "nivel": "4"
+      }
+    ]
+  },
+  {
+    "nombre": "Javiera",
+    "apellido": "Cabrera",
+    "correo": "javiera.cabrera@ey.cl.com",
+    "rank": "staff/asistente",
+    "experiencia": ["Industrial", "Financiera", "Publica", "Gobierno"],
+    "conocimientos": [
+      {
+        "nombre": "Inteligencia de negocios",
+        "nivel": "7"
+      },
+      {
+        "nombre": "Node",
+        "nivel": "6"
+      },
+      {
+        "nombre": "Node",
+        "nivel": "6"
+      },
+      {
+        "nombre": "AWS",
+        "nivel": "4"
+      }
+    ]
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Espejo",
+    "correo": "jorge.espejo@ey.cl.com",
+    "rank": "Manager",
+    "experiencia": ["Retail", "Financiera", "Publica", "Gobierno"],
+    "conocimientos": [
+      {
+        "nombre": "Inteligencia de negocios",
+        "nivel": "8"
+      },
+      {
+        "nombre": "Data Engineering",
+        "nivel": "7"
+      },
+      {
+        "nombre": "Azure Data Lake",
+        "nivel": "10"
+      },
+      {
+        "nombre": "AWS",
+        "nivel": "4"
+      }
+    ]
+  }
+]

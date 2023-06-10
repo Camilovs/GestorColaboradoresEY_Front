@@ -1,0 +1,74 @@
+[
+  {
+    "ID": 1,
+    "nombre": "Inteligencia de Negocios",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 2,
+    "nombre": "Integracion de datos",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 3,
+    "nombre": "Big Data",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 4,
+    "nombre": "Data Lakes",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 5,
+    "nombre": "Data Factory",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 6,
+    "nombre": "Data Sciencie",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 7,
+    "nombre": "Data Engineering",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 8,
+    "nombre": "Full Stack",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 9,
+    "nombre": "Python",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 10,
+    "nombre": "Machine Learning",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 11,
+    "nombre": "R",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  },
+  {
+    "ID": 12,
+    "nombre": "Salud",
+    "createdAt": "2023-06-10T01:22:05.990Z",
+    "updatedAt": "2023-06-10T01:22:05.990Z"
+  }
+]

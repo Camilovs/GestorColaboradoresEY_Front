@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "nombre": "Staff/Asistente"
+  },
+  {
+    "ID": 2,
+    "nombre": "Senior"
+  },
+  {
+    "ID": 3,
+    "nombre": "Manager"
+  },
+  {
+    "ID": 4,
+    "nombre": "Senior especialista"
+  },
+  {
+    "ID": 5,
+    "nombre": "Manager Senior"
+  },
+  {
+    "ID": 6,
+    "nombre": "Socio"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ID": 1,
+    "nombre": "Technology Consulting"
+  },
+  {
+    "ID": 2,
+    "nombre": "Business Consulting"
+  },
+  {
+    "ID": 3,
+    "nombre": "Business Transformation"
+  }
+]
